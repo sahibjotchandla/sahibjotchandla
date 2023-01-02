@@ -1,7 +1,10 @@
-**I am Sahibjot Chandla and welcome to my GitHub Profile!**
+My name is **Sahibjot Chandla** and welcome to my GitHub Profile! <br />
 
-I am aspiring to be a Computer Engineer hoping to create technology for the ease of others.
+I am striving to become a **Computer Engineer** hoping to create technology for the ease of others. <br />
 
-Languages: C and Java. 
-Email: schandla@uoguelph.ca
-LinkedIn: www.linkedin.com/in/sahibjotchandla
+<pre>
+I am currently learning C and Java. 
+</pre>
+
+Email: schandla@uoguelph.ca <br />
+LinkedIn: www.linkedin.com/in/sahibjotchandla <br />
