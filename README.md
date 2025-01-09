@@ -1,4 +1,4 @@
-## <p align="center">! 👋 I'm Sahibjot Chandla!</p>
+## <p align="center">Hi There! 👋 I'm Sahibjot Chandla!</p>
 
 #### <p align="center">I am an aspiring engineer based around Toronto studying Computer Engineering at the University of Guelph </p>
 
